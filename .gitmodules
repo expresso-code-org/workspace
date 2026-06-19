@@ -1,3 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:expresso-code-org/knowledge.git
+[submodule "projects/documentation"]
+	path = projects/documentation
+	url = git@github.com:expresso-code-org/documentation.git
