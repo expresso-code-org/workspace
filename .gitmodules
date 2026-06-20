@@ -4,3 +4,9 @@
 [submodule "projects/documentation"]
 	path = projects/documentation
 	url = git@github.com:expresso-code-org/documentation.git
+[submodule "projects/project-ai-social-worker-form"]
+	path = projects/project-ai-social-worker-form
+	url = git@github.com:expresso-code-org/project-ai-social-worker-form.git
+[submodule "projects/go-backend-masterclass"]
+	path = projects/go-backend-masterclass
+	url = git@github.com:expresso-code-org/go-backend-masterclass.git
