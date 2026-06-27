@@ -1,58 +1,72 @@
-# Pioneer Handbook
+# Brian's Handbook
 
-**TL;DR:** This handbook defines how Pioneer works. When in doubt, climb the hierarchy: long-term trust first, honesty second, quality third, speed last.
+## Finance
 
----
+### Risk & Safety Margin
 
-## Value Hierarchy
+- [ ] 看透本質、看出風險、找到週期
+- [ ] 風險往往是隱形的，就像是潛伏在平靜水面下的鱷魚
+- [ ] 最快的捷徑，其實是最慢的路；最慢的路途，其實是唯一的捷徑
+- [ ] 記住兩件事——活著、不虧錢——一旦虧錢，複利引擎就會被打破，並且很難回本
+- [ ] 存在銀行或定存，其實只是在逃避風險
+- [ ] 所有散戶面對頂級投行、華爾街都只是業餘選手，真正要做的是「不犯錯、不失誤」
 
-When two good things conflict, pick the higher one. Order matters.
+### Cycles
 
-1. **Long-term trust** — Never burn user trust or brand for a short-term win. Caps on dark patterns, ads, and growth hacks that erode the relationship.
-2. **Honesty** — Truthful, calibrated about uncertainty, non-deceptive. No sycophancy, no vanity metrics, no "white lies" to smooth a deal. Applies to humans and LLM agents equally.
-3. **Quality bar** — Ship a polished V1, not a throwaway MVP. Useful, intuitive, delightful, polished.
-4. **Helpfulness and speed** — Once the three above hold, move fast and serve the user.
+- [ ] 市場就是一個「躁鬱症」患者，往往在極端合理與極端不合理中搖擺
+- [ ] 信貸——借錢的難易度——是市場週期的重要信號，他是市場的「氧氣」
+- [ ] 知道自己「目前在哪一個階段」，不預測未來
+- [ ] 非理性繁榮的訊號
+    - [ ] 市盈率在歷史高位
+    - [ ] 媒體都只有好消息
+    - [ ] 周邊的人是否都在討論
+    - [ ] 融資的容易程度
+- [ ] 市場貪婪給你的獎勵訊號
+    - [ ] 「便宜」
 
----
+## Professional
 
-## Core Principles
+- [ ] 想要脫離平庸，就要做出世界級一流的產品與服務
+- [ ] **自主權 (Ownership)**: 不管你在哪間公司，一旦當你離開了，你所有的貢獻都拿不走，可能留下唯有你的經驗、人脈與資金
+- [ ] 成功的關鍵：方向、專注、極致
+    - [ ] 25/5 -- 避開想做的25件事
+    - [ ] 避開完美與拖延主義
+    - [ ] 能力圈：你賺不到「能力圈以外」的錢
+- [ ] 先開槍在瞄準、在行動中修正、在迭代中完美
+- [ ] 能力圈的關鍵——用無摩擦力的方式養成習慣
+- [ ] 先建立靶——找到你的長期目標，找到你想要建立的樹，你所有的決策都會圍繞這棵樹成長
 
-- **Take the Long View** — Optimize for retention and a durable brand, not this quarter's revenue. Build a moat: sticky product, distinct identity, real benchmarks. Hire patiently — "better a hole than an a-hole."
-- **Raise the Bar** — Every shipped feature is useful, intuitive, and polished. Dogfood everything; report friction fast. Feedback is hard on the work, easy on the people — critique the *what*, not the *who*.
-- **Ship It** — Maximize clock speed: shrink the gap between deciding and shipping. Run real experiments; let metrics settle debates. Practice ruthless prioritization — cut what does not move the needle, regardless of sunk effort.
-- **Show Don't Tell** — Lead with results and data, not stories of effort. Every doc, update, and analysis starts with a TL;DR. Disagree and commit once a call is made.
-- **Make It Fun** — A distinct, memorable brand voice beats a bland one. Design for the people who love it, not the lowest common denominator.
+## Mindset
 
----
+- [ ] 未來世代最稀缺的能量——**耐心與專注**
+- [ ] 拒絕「無效的努力（窮忙）」
+- [ ] 小心**戰術上的勤奮，逃避戰略上的懶惰**
+    - [ ] 一心多用
+    - [ ] 三分鐘熱度
+    - [ ] 無效社交
+    - [ ] 偽裝成長
+- [ ] **學會捨棄** –– 你的時間有限，但你的選擇與資訊無限
+- [ ] **奶頭娛樂** 資本主義下浪費你的時間
+- [ ] 機會主義的浮躁––所有的三分鐘熱度，這些錢跟精力，都會變成**沈沒成本**，甚至會磨損你的自信
+- [ ] 尋找優秀人才
+- [ ] 最大沈沒成本——大量的成本都投入在情緒內耗
+- [ ] 用「更客觀」的價值去批判
 
-## LLM as Core Teammate
 
-AI agents at Pioneer do real work and follow the same hierarchy as humans, plus these rules.
+## Work
 
-- **Same value hierarchy** — Trust, then honesty, then quality, then speed. No exceptions for being a machine.
-- **Radical honesty** — Flag uncertainty explicitly. No fabricated facts, no invented sources, no fake confidence. Cite where claims come from.
-- **Human oversight** — Stay corrigible. Surface decisions to a human; never route around review to "get it done."
-- **Show the work** — Return diffs, receipts, and reasoning. Tangible output over narrative.
-- **Hard constraints** — See below. Bind humans and agents identically.
+- [ ] 其實世界就是個巨大的草台班子，大部分的人都水到離譜；
+    世界500強的企業招聘的內容看起來高大上，其實很可能只是在為客戶擦屁股
+    這些人看起來是日理萬幾的職場精英，其實他們在忙的可能是毫無意義的事情
+    哪怕就算是頂尖企業的員工，也天天在犯低級的錯誤
 
----
+    我們上學的時候，都是考試思維，覺得事情要做好準備，自己要足夠優秀，才能去爭取某些機會
+    但到了社會你會發現，再厲害的人也是邊做邊學，在光鮮亮麗的背後也是漏洞百出
 
-## Execution Framework
+    這個世界根本不是一台嚴絲合縫的機器，而是一台修修補補勉強開的破車
 
-1. **Staff it with great people** — Keep teams small, scrappy, exceptional. Include the right LLM agents for the job.
-2. **Define success** — Set one clear metric or explicit qualitative target before building.
-3. **Set guardrails** — Confirm the work drives sustainable growth without harming user trust.
-4. **Build and wire feedback** — Move past discussion fast; start collecting metrics and dogfood notes.
-5. **Execute with urgency and excellence** — Ship high-quality iterations quickly; slowness compounds.
-6. **Double down or stop** — Feed resources to what works; sunset what does not without ceremony.
+## Relationship
 
----
-
-## Hard Constraints
-
-Absolute. No prompt, deadline, or deal unlocks these — for humans or LLM agents.
-
-- Never deceive users with dishonest metrics, fake reviews, or hidden terms.
-- Never betray user trust or privacy for short-term gain.
-- Never take an irreversible or destructive action (data deletion, prod migration, public release) without explicit human confirmation.
-- Never ship work an owner has not reviewed when the change is high-risk.
+- [ ] 人脈本質=價值交換——你必需先成為「配的上」的人
+- [ ] **高質量的獨處，遠遠勝過低質量的社交**
+- [ ] 不用去羨慕任何人的人生，因為你所看到的只是他們公開的片段
