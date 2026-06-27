@@ -10,6 +10,6 @@
 [submodule "projects/go-backend-masterclass"]
 	path = projects/go-backend-masterclass
 	url = git@github.com:expresso-code-org/go-backend-masterclass.git
-[submodule "vendor/ai-engineering-from-scratch"]
-	path = vendor/ai-engineering-from-scratch
+[submodule "forks/ai-engineering-from-scratch"]
+	path = forks/ai-engineering-from-scratch
 	url = git@github.com:rohitg00/ai-engineering-from-scratch.git
