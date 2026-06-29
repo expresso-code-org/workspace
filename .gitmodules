@@ -7,9 +7,9 @@
 [submodule "projects/project-ai-social-worker-form"]
 	path = projects/project-ai-social-worker-form
 	url = git@github.com:expresso-code-org/project-ai-social-worker-form.git
-[submodule "projects/go-backend-masterclass"]
-	path = projects/go-backend-masterclass
-	url = git@github.com:expresso-code-org/go-backend-masterclass.git
 [submodule "forks/ai-engineering-from-scratch"]
 	path = forks/ai-engineering-from-scratch
 	url = git@github.com:expresso-code-org/ai-engineering-learning.git
+[submodule "tutorial/go-backend-masterclass"]
+	path = tutorial/go-backend-masterclass
+	url = git@github.com:expresso-code-org/go-backend-masterclass.git
